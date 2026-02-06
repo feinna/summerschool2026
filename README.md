@@ -31,7 +31,7 @@ Have a go with completing these setup instructions _well before the class on Fri
 
 ### Operating system: Windows
 1. Open Command Prompt
-2. Into the Command Prompt window, type `python3 -V`
+2. Into the Command Prompt window, type `python -V`
    - Please note that the word python is lowercase, there is no space between 'python' and '3', there _is_ a space between '3' and '-' and the 'V' is a capital
 3. If you have python installed, it will return a line saying "Python" and a number. If the number starts with a 3 (such as: 3.14.2) then you are good and can move onto the next stage (installing Visual Studio Code). If you do not have Python, or if the number begins with a 2, you will need to install a more recent version of python (see below 'Installing Python')
 
