@@ -1,5 +1,5 @@
 # Welcome to the Introduction to Python for Complete Beginners
-This is the repository for the files you may need to take part in the ADM+S Summer School 'Introduction to Python for Complete Beginners' class.
+This is the setup instructions you'll need to complete to take part in the ADM+S Summer School 'Introduction to Python for Complete Beginners' class.
 
 Have a go with completing these setup instructions _well before the class on Friday_. If you get stuck, you can either find me at the summer school (I currently have teal and black hair) or you can email me at jennifer.wilson@monash.edu
 
